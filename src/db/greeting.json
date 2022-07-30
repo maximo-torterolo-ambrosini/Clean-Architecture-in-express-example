@@ -1,0 +1,19 @@
+[
+    {
+        "language": "en",
+        "salute": "Hello"
+    },
+    {
+        "language": "fr",
+        "salute": "Bonjour"
+    },
+    {
+        "language": "de",
+        "salute": "Guten Tag"
+    },
+    {
+        "language": "es",
+        "salute": "Hola"
+    }
+]
+
